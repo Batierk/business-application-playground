@@ -6,6 +6,7 @@
   * after a given year '>='
 * author (AuthorId)
 * whether it is best seller or not.
+- As a Book store user I should at least provide one search criteria to generate report.
 - As a Book store user I should be able to see the Word report that is generated with user friendly formatting.
 
 Example for formatting:
